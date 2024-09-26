@@ -2,7 +2,7 @@
 
 <ul>
 <li> 🎓 B.S. Student with a GPA of <b>3.8</b> out of 4.<br><br>
-<li> 🔭 I'm interested in ML and NLP, particularly in <b>large language models</b>. My research covers a wide range of topics, such as reasoning, evaluation, and factuality, etc., within the following areas:
+<li> 🔭 I'm interested in ML and NLP, particularly in <b>large language models</b>. My research covers a wide range of topics, such as reasoning, evaluation, and factuality, etc., within the following areas:<br>&nbsp;<br>
 <ul>
 <li><i>Self-Improving LLMs Through Synthetic Data</i><br>
 <li><i>Instruction Structuring via Prompt Engineering</i><br><br>
