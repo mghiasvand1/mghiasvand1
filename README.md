@@ -1,7 +1,7 @@
 ### Hi there, this is Mohammad! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <ul>
-<li> 🎓 B.S. Student with a GPA of <b>4</b> out of 4.<br><br>
+<li> 🎓 B.S. Student with a GPA of <b>4.0</b> out of 4.0<br><br>
 <li> 🔭 I'm interested in ML and NLP, particularly in <b>large language models</b>. My research covers a wide range of topics, such as reasoning, evaluation, and factuality, etc., within the following areas:<br><p></p>
 <ul>
 <li><i>Self-Improving LLMs Through Synthetic Data</i><br>
