@@ -5,8 +5,7 @@
 <li> 🔭 I'm interested in ML and NLP, particularly in <b>large language models</b>. More specifically, my research primarily focuses on, but is not limited to, the following areas:<br><p></p>
 <ul>
 <li><i>Self-Improving LLMs Through Synthetic Data</i><br>
-<li><i>Interpretable Evaluation of LLM Performance</i><br><br>
-<!-- <li><i>Instruction Structuring via Prompt Engineering</i><br><br> -->
+<li><i>Interpretable Evaluation of LLMs' Behavior</i><br><br>
 </ul>
 <li> 💬 You can only reach me via <a href="mailto:mohammadmohammadkhani82@gmail.com"><i> email</i></a>, as I don’t use any social media!
 </ul>
