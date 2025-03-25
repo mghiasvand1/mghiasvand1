@@ -6,7 +6,7 @@
 </ul>
 
 ### 🔭 Research Interests  
-<center><hr size="50"></center>
+<center>‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾</center>
 <table align="center">
   <tr>
     <td align="center">
