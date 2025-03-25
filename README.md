@@ -8,9 +8,22 @@
 ### 🔭 Research Interests  
 <hr style="border: 0; border-top: 1px solid #fff"> 
 
-- Large Language Models          - Vision-Language Models
-- LLM-based Automatic Evaluation  - Synthetic Data Generation
-- Multilinguality                - Retrieval-Augmented Generation
+<div style="display: flex;">
+  <div style="width: 50%;">
+    <ul>
+      <li>Large Language Models</li>
+      <li>LLM-based Automatic Evaluation</li>
+      <li>Multilinguality</li>
+    </ul>
+  </div>
+  <div style="width: 50%;">
+    <ul>
+      <li>Vision-Language Models</li>
+      <li>Synthetic Data Generation</li>
+      <li>Retrieval-Augmented Generation</li>
+    </ul>
+  </div>
+</div>
 
 ### 🛠 Skills
 <p align="center">
