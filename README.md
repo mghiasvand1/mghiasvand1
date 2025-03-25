@@ -3,10 +3,10 @@
 <ul>
 <li> 🎓 B.S. student with a GPA of <b>3.92</b> out of 4.0 at Amirkabir University of Technology.<br>
 <li> 💻 I work on Large Language Models for both research and industrial applications, and I am also a full-stack web developer.
-<li> 💬 I'm only available via email, as I don’t use any social media!
+<li> 💬 I'm only available via <i>email</i>, as I don’t use any social media!
 </ul>
 
-## 🛠 Skills
+#### 🛠 Skills
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
