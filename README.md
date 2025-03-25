@@ -6,7 +6,7 @@
 </ul>
 
 ### 🔭 Research Interests  
-<center>―――――――――――――――――――――</center>
+<center><font color="gray">-------------------------</font></center>
 <table align="center">
   <tr>
     <td align="center">
