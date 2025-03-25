@@ -7,14 +7,14 @@
 
 ### 🔭 Research Interests  
 <hr style="border: 0; border-top: 1px solid #fff"> 
-<table align="center">
+<table align="center" style="border: none; border-collapse: collapse;">
   <tr>
-    <td align="center">
+    <td align="center" style="border: none;">
       <div>Large Language Models</div>
       <div>LLM-based Automatic Evaluation</div>
       <div>Multilinguality</div>
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <div>Vision-Language Models</div>
       <div>Synthetic Data Generation</div>
       <div>Retrieval-Augmented Generation</div>
