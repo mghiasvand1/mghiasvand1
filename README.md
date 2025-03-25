@@ -5,7 +5,7 @@
 <li> 💬 I'm only available via <i>email</i>, as I don’t use any social media!
 </ul>
 
-### 🛠 Research Interests
+### 🔭 Research Interests
 sdf
 
 ### 🛠 Skills
