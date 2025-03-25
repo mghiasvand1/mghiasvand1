@@ -11,8 +11,8 @@
   <tr>
     <td>
         <ul>
-          <li>Large Language Models</li>
-          <li>LLM-based Automatic Evaluation</li>
+          <li align="center">Large Language Models</li>
+          <li align="center">LLM-based Automatic Evaluation</li>
           <li>Multilinguality</li>
         </ul>
     </td>
