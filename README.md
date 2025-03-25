@@ -5,3 +5,10 @@
 <li> 🔭 I'm interested in ML and NLP, particularly in <b>large language models</b>, specifically, but not limited to, structured high-quality synthetic data generation by LLMs, improving them using such data, and LLM evaluation.<br><p></p>
 <li> 💬 You can only reach me via <a href="mailto:mohammadmohammadkhani82@gmail.com"><i> email</i></a>, as I don’t use any social media!
 </ul>
+
+## Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,huggingface,pytorch,tailwind,django,vue,nuxt,git,numpy,pandas,matplotlib" />
+</p>
+
