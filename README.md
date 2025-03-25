@@ -8,7 +8,6 @@
 ### 🔭 Research Interests  
 <hr style="border: 0; border-top: 1px solid #fff"> 
 
-| Left Column               | Right Column                 |
 |---------------------------|------------------------------|
 | Large Language Models      | Vision-Language Models       |
 | LLM-based Automatic Evaluation | Synthetic Data Generation  |
