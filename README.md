@@ -6,7 +6,7 @@
 </ul>
 
 ### 🔭 Research Interests  
-<hr style="border: 0; border-top: 1px solid #ccc; margin: 10px 0;"> <table> <tr> <td>✓ Large Language Models</td> <td>✓ Vision-Language Models</td> </tr> <tr> <td>✓ LLM-based Automatic Evaluation</td> <td>✓ Synthetic Data Generation</td> </tr> <tr> <td>✓ Multilinguality</td> <td>✓ Retrieval-Augmented Generation</td> </tr> </table>
+<hr style="border: 0; border-top: 1px solid #ccc; margin: 10px 0;"> <ul style="display: flex; flex-wrap: wrap; padding: 0;"> <li style="width: 50%; list-style-type: none;">✓ Large Language Models</li> <li style="width: 50%; list-style-type: none;">✓ Vision-Language Models</li> <li style="width: 50%; list-style-type: none;">✓ LLM-based Automatic Evaluation</li> <li style="width: 50%; list-style-type: none;">✓ Synthetic Data Generation</li> <li style="width: 50%; list-style-type: none;">✓ Multilinguality</li> <li style="width: 50%; list-style-type: none;">✓ Retrieval-Augmented Generation</li> </ul>
 
 
 ### 🛠 Skills
