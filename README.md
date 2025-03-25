@@ -1,7 +1,7 @@
 ### Hi there, this is Mohammad! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <ul>
-<li> 🎓 B.S. student with a GPA of <b>3.92</b> out of 4.0 at Amirkabir University of Technology.<br><br>
+<li> 🎓 B.S. student with a GPA of <b>3.92</b> out of 4.0 at Amirkabir University of Technology.<br>
 <li> 🔭 I work on Large Language Models for both research and industrial applications, and I am also a full-stack web developer.<br><p></p>
 <li> 💬 I'm only available via <a href="mailto:mohammadmohammadkhani82@gmail.com"><i>email</i></a>, as I don’t use any social media!
 </ul>
