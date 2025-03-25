@@ -10,22 +10,18 @@
 <table>
   <tr>
     <td>
-      <center>
         <ul>
           <li>Large Language Models</li>
           <li>LLM-based Automatic Evaluation</li>
           <li>Multilinguality</li>
         </ul>
-      </center>
     </td>
     <td>
-      <center>
         <ul>
           <li>Vision-Language Models</li>
           <li>Synthetic Data Generation</li>
           <li>Retrieval-Augmented Generation</li>
         </ul>
-      </center>
     </td>
   </tr>
 </table>
