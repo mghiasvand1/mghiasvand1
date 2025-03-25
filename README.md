@@ -13,14 +13,14 @@
         <ul>
           <li align="center">Large Language Models</li>
           <li align="center">LLM-based Automatic Evaluation</li>
-          <li>Multilinguality</li>
+          <li align="center">Multilinguality</li>
         </ul>
     </td>
     <td>
         <ul>
-          <li>Vision-Language Models</li>
-          <li>Synthetic Data Generation</li>
-          <li>Retrieval-Augmented Generation</li>
+          <li align="center">Vision-Language Models</li>
+          <li align="center">Synthetic Data Generation</li>
+          <li align="center">Retrieval-Augmented Generation</li>
         </ul>
     </td>
   </tr>
