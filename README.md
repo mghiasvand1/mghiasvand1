@@ -6,12 +6,8 @@
 </ul>
 
 ### 🔭 Research Interests  
-<hr style="border: 0; border-top: 1px solid #ccc; margin: 10px 0;"> 
-<ul>
-<li> 🎓 B.S. student with a GPA of <b>3.92</b> out of 4.0 at Amirkabir University of Technology.<br>
-<li> 💻 I work on Large Language Models for both research and industrial applications, and I am also a full-stack web developer.
-<li> 💬 I'm only available via <i>email</i>, as I don’t use any social media!
-</ul>
+<hr style="border: 0; border-top: 1px solid #ccc; margin: 10px 0;"> <table> <tr> <td>✓ Large Language Models</td> <td>✓ Vision-Language Models</td> </tr> <tr> <td>✓ LLM-based Automatic Evaluation</td> <td>✓ Synthetic Data Generation</td> </tr> <tr> <td>✓ Multilinguality</td> <td>✓ Retrieval-Augmented Generation</td> </tr> </table>
+
 
 ### 🛠 Skills
 <p align="center">
