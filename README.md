@@ -7,21 +7,17 @@
 
 ### 🔭 Research Interests  
 <hr style="border: 0; border-top: 1px solid #fff"> 
-<table align="center">
+<table>
   <tr>
-    <td>
-        <ul>
-          <li align="center">Large Language Models</li>
-          <li align="center">LLM-based Automatic Evaluation</li>
-          <li align="center">Multilinguality</li>
-        </ul>
+    <td align="center">
+      <div>Large Language Models</div>
+      <div>LLM-based Automatic Evaluation</div>
+      <div>Multilinguality</div>
     </td>
-    <td>
-        <ul>
-          <li align="center">Vision-Language Models</li>
-          <li align="center">Synthetic Data Generation</li>
-          <li align="center">Retrieval-Augmented Generation</li>
-        </ul>
+    <td align="center">
+      <div>Vision-Language Models</div>
+      <div>Synthetic Data Generation</div>
+      <div>Retrieval-Augmented Generation</div>
     </td>
   </tr>
 </table>
