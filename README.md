@@ -33,12 +33,16 @@
   </tr>
 </table>
 
-## ✨ Highlights
-<ul>
-  <li>
-    
-  </li>
-</ul>
+<!-- ## ✨ Highlights -->
+<!-- <ul> -->
+<!--   <li></li> -->
+<!--   <li> I've completed the following research papers during my very tight bachelor's time period: -->
+<!--     <ul> -->
+<!--       <li>E2TP: Element to Tuple Prompting Improves Aspect Sentiment Tuple Prediction (Done as a state-of-the-art long paper during my 3rd undergraduate semester)</li> -->
+<!--       <li></li> -->
+<!--     </ul> -->
+<!--   </li> -->
+<!-- </ul> -->
 
 ## 🛠 Skills
 <p align="center">
