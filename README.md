@@ -1,4 +1,7 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, this is Mohammad! <div align="right"><img src="https://komarev.com/ghpvc/?username=mghiasvand1&color=4CAF50&style=flat&label=Views"></div>
+<div>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, this is Mohammad! 
+  <div style="float: right;"><img src="https://komarev.com/ghpvc/?username=mghiasvand1&color=4CAF50&style=flat&label=Views"></div>
+</div>
 
 <ul>
 <li> 🎓 B.S. student with a GPA of <b>3.92</b> out of 4.0 at Amirkabir University of Technology.<br>
