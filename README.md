@@ -33,7 +33,7 @@
   </tr>
 </table>
 
-✨ Highlights
+## ✨ Highlights
 <!-- <ul> -->
 <!--   <li></li> -->
 <!--   <li> I've completed the following research papers during my very tight bachelor's time period: -->
