@@ -36,15 +36,15 @@
 </table>
 
 ## ✨ Highlights
-<!-- <ul> -->
-<!--   <li></li> -->
+<ul>
+<li>TBD</li>
 <!--   <li> I've completed the following research papers during my very tight bachelor's time period: -->
 <!--     <ul> -->
 <!--       <li>E2TP: Element to Tuple Prompting Improves Aspect Sentiment Tuple Prediction (Done as a state-of-the-art long paper during my 3rd undergraduate semester)</li> -->
 <!--       <li></li> -->
 <!--     </ul> -->
 <!--   </li> -->
-<!-- </ul> -->
+</ul>
 
 ## 🛠 Skills
 <p align="center">
