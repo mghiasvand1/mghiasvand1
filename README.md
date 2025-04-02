@@ -1,6 +1,6 @@
 <div>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, this is Mohammad! 
-  <div style="float: right;"><img src="https://komarev.com/ghpvc/?username=mghiasvand1&color=4CAF50&style=flat&label=Views"></div>
+  <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, this is Mohammad! </span>
+  <span align="right"><img src="https://komarev.com/ghpvc/?username=mghiasvand1&color=4CAF50&style=flat&label=Views"></span>
 </div>
 
 <ul>
