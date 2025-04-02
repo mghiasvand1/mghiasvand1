@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, this is Mohammad! ![](https://komarev.com/ghpvc/?username=mghiasvand1&color=4CAF50&style=plastic&label=Views)
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, this is Mohammad! ![](https://komarev.com/ghpvc/?username=mghiasvand1&color=4CAF50&style=flat&label=Views)
 
 
 <ul>
@@ -64,5 +64,5 @@
 
 ## 📊 GitHub Statistics
 <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mghiasvand1&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=shadow_green" height=150px/><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mghiasvand1&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=shadow_green&bg_color=00000000" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mghiasvand1&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" height=150px/><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mghiasvand1&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&bg_color=00000000" />
 </p>
