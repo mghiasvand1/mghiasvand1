@@ -10,18 +10,26 @@
 <table align="center">
   <tr>
     <td align="center">
-      <div>Large (Vision) Language Models</div>
+      <div>Large Language Models</div>
     </td>
     <td align="center">
-      <div>L(V)LM Evaluation & Benchmark</div>
+      <div>Vision-Language Models</div>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <div>L(V)LM-based Automatic Evaluation</div>
+      <div>L(V)LM Evaluation & Benchmark</div>
     </td>
     <td align="center">
       <div>Synthetic Data Generation</div>
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <div>Retrieval-Augmented Generation</div>
+    </td>
+    <td align="center">
+      <div>L(V)LM-based Automatic Evaluation</div>
     </td>
   </tr>
 </table>
