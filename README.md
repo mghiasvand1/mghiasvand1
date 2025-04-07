@@ -55,14 +55,13 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/mghiasvand1">
-        <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=%E2%AD%90&labelColor=white&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mghiasvand1&color=yellow&bg_color=00000000" alt="Stars">
-      </a>
-      <br>
-      <a href="https://github.com/mghiasvand1">
-        <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=%F0%9F%8D%B4&labelColor=white&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/mghiasvand1&color=lightgrey&bg_color=00000000" alt="Forks">
-      </a>
-    </td>
+  <iframe src="https://ghbtns.com/github-btn.html?user=mghiasvand1&repo=mghiasvand1&type=star&count=true&size=small"
+    frameborder="0" scrolling="0" width="100" height="20" title="GitHub Star Button"></iframe>
+  <br>
+  <iframe src="https://ghbtns.com/github-btn.html?user=mghiasvand1&repo=mghiasvand1&type=fork&count=true&size=small"
+    frameborder="0" scrolling="0" width="100" height="20" title="GitHub Fork Button"></iframe>
+</td>
+
     <td align="center">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mghiasvand1&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&hide=stars,commits&bg_color=00000000" height="100px"/>
       </td>
