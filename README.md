@@ -55,13 +55,14 @@
 <table align="center">
   <tr>
     <td align="center">
-  <iframe src="https://ghbtns.com/github-btn.html?user=mghiasvand1&repo=mghiasvand1&type=star&count=true&size=small"
-    frameborder="0" scrolling="0" width="100" height="20" title="GitHub Star Button"></iframe>
+  <a href="https://github.com/mghiasvand1">
+    <img src="https://img.shields.io/badge/dynamic/json?style=social&label=Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mghiasvand1" alt="Stars">
+  </a>
   <br>
-  <iframe src="https://ghbtns.com/github-btn.html?user=mghiasvand1&repo=mghiasvand1&type=fork&count=true&size=small"
-    frameborder="0" scrolling="0" width="100" height="20" title="GitHub Fork Button"></iframe>
+  <a href="https://github.com/mghiasvand1">
+    <img src="https://img.shields.io/badge/dynamic/json?style=social&label=Forks&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/mghiasvand1" alt="Forks">
+  </a>
 </td>
-
     <td align="center">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mghiasvand1&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&hide=stars,commits&bg_color=00000000" height="100px"/>
       </td>
