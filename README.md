@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, this is Mohammad!  
-[![](https://img.shields.io/badge/⭐️-dynamic-yellow?style=flat-square&labelColor=white&logoWidth=0)](https://github.com/mghiasvand1)
-[![](https://img.shields.io/badge/🍴-dynamic-lightgrey?style=flat-square&labelColor=white&logoWidth=0)](https://github.com/mghiasvand1)
+[![](https://img.shields.io/badge/dynamic/json?style=flat-square&label=⭐️&labelColor=white&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mghiasvand1&color=yellow)](https://github.com/mghiasvand1)
+[![](https://img.shields.io/badge/dynamic/json?style=flat-square&label=🍴&labelColor=white&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/mghiasvand1&color=lightgrey)](https://github.com/mghiasvand1)
 
 
 <ul>
