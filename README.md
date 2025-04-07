@@ -1,7 +1,4 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, this is Mohammad!  
-[![](https://img.shields.io/badge/dynamic/json?style=flat-square&label=⭐️&labelColor=white&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mghiasvand1&color=yellow)](https://github.com/mghiasvand1)
-[![](https://img.shields.io/badge/dynamic/json?style=flat-square&label=🍴&labelColor=white&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/mghiasvand1&color=lightgrey)](https://github.com/mghiasvand1)
-
 
 <ul>
 <li> 🎓 B.S. student with a GPA of <b>3.92</b> out of 4.0 at Amirkabir University of Technology.<br>
@@ -54,9 +51,21 @@
 </p>
 
 ## 📊 GitHub Statistics
-[![](https://img.shields.io/badge/dynamic/json?style=flat-square&label=⭐️&labelColor=white&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mghiasvand1&color=yellow)](https://github.com/mghiasvand1)
-[![](https://img.shields.io/badge/dynamic/json?style=flat-square&label=🍴&labelColor=white&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/mghiasvand1&color=lightgrey)](https://github.com/mghiasvand1)
+
 <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mghiasvand1&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&hide=stars,commits&bg_color=00000000" height=110px/>
+  <!-- GitHub Stars & Forks (stacked vertically) -->
+  <span>
+    <a href="https://github.com/mghiasvand1">
+      <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=⭐️ Stars&labelColor=white&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mghiasvand1&color=yellow" height="20px"/>
+    </a><br/>
+    <a href="https://github.com/mghiasvand1">
+      <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=🍴 Forks&labelColor=white&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/mghiasvand1&color=lightgrey" height="20px"/>
+    </a>
+  </span>
+
+  <!-- GitHub Stats -->
+  <img height="110px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mghiasvand1&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&hide=stars,commits&bg_color=00000000" />
+
+  <!-- Top Languages -->
   <img height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mghiasvand1&hide=html,javascript&exclude_repo=huggingface-tutorial,mghiasvand1.github.io,tasty-django&hide_title=true&hide_border=true&layout=compact&langs_count=4&bg_color=00000000" />
 </p>
