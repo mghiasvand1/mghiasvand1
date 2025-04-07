@@ -66,8 +66,8 @@
     </td>
     <!-- Stats images column -->
     <td align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mghiasvand1&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&hide=stars,commits&bg_color=00000000" height="110px"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mghiasvand1&hide=html,javascript&exclude_repo=huggingface-tutorial,mghiasvand1.github.io,tasty-django&hide_title=true&hide_border=true&layout=compact&langs_count=4&bg_color=00000000" height="110px"/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mghiasvand1&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&hide=stars,commits&bg_color=00000000" height="100px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mghiasvand1&hide=html,javascript&exclude_repo=huggingface-tutorial,mghiasvand1.github.io,tasty-django&hide_title=true&hide_border=true&layout=compact&langs_count=4&bg_color=00000000" height="100px"/>
     </td>
   </tr>
 </table>
