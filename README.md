@@ -56,11 +56,11 @@
   <tr>
     <td align="center">
       <a href="https://github.com/mghiasvand1">
-        <img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=octicon-star&logoColor=black&label=&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mghiasvand1&color=00000000&labelColor=00000000&bg_color=00000000" alt="Stars">
+        <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=★&labelColor=black&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mghiasvand1&color=black&bg_color=00000000" alt="Stars">
       </a>
       <br>
       <a href="https://github.com/mghiasvand1">
-        <img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=octicon-repo-forked&logoColor=black&label=&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/mghiasvand1&color=00000000&labelColor=00000000&bg_color=00000000" alt="Forks">
+        <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=⑂&labelColor=black&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/mghiasvand1&color=black&bg_color=00000000" alt="Forks">
       </a>
     </td>
     <td align="center">
