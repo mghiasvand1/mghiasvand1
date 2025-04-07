@@ -54,17 +54,15 @@
 
 <table align="center">
   <tr>
-    <!-- Badge column: star above fork -->
     <td align="center">
       <a href="https://github.com/mghiasvand1">
-        <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=⭐️&labelColor=white&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mghiasvand1&color=yellow&bg_color=00000000" alt="Stars">
+        <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=%E2%AD%90&labelColor=white&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mghiasvand1&color=yellow&bg_color=00000000" alt="Stars">
       </a>
       <br>
       <a href="https://github.com/mghiasvand1">
-        <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=🍴&labelColor=white&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/mghiasvand1&color=lightgrey&bg_color=00000000" alt="Forks">
+        <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=%F0%9F%8D%B4&labelColor=white&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/mghiasvand1&color=lightgrey&bg_color=00000000" alt="Forks">
       </a>
     </td>
-    <!-- Stats images column -->
     <td align="center">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mghiasvand1&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&hide=stars,commits&bg_color=00000000" height="100px"/>
       </td>
