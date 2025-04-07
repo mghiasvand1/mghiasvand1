@@ -63,9 +63,9 @@
     <img src="https://img.shields.io/badge/dynamic/json?style=social&label=%F0%9F%8D%B4%20Forks&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/mghiasvand1" alt="Forks">
   </a>
 </td>
-    <td align="center">
+<!--     <td align="center">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mghiasvand1&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&hide=stars,commits&bg_color=00000000" height="100px"/>
-      </td>
+      </td> -->
       <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mghiasvand1&hide=html,javascript&exclude_repo=huggingface-tutorial,mghiasvand1.github.io,tasty-django&hide_title=true&hide_border=true&layout=compact&langs_count=4&bg_color=00000000" height="100px"/>
     </td>
