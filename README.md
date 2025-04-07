@@ -56,11 +56,11 @@
   <tr>
     <td align="center">
       <a href="https://github.com/mghiasvand1">
-        <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=%E2%AD%90&labelColor=white&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mghiasvand1&color=yellow&bg_color=00000000" alt="Stars">
+        <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&logo=https://raw.githubusercontent.com/primer/octicons/main/icons/star-16.svg&label=&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mghiasvand1&color=00000000&labelColor=00000000" alt="Stars">
       </a>
       <br>
       <a href="https://github.com/mghiasvand1">
-        <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=%F0%9F%8D%B4&labelColor=white&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/mghiasvand1&color=lightgrey&bg_color=00000000" alt="Forks">
+        <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&logo=https://raw.githubusercontent.com/primer/octicons/main/icons/repo-forked-16.svg&label=&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/mghiasvand1&color=00000000&labelColor=00000000" alt="Forks">
       </a>
     </td>
     <td align="center">
