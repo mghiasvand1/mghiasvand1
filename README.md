@@ -52,5 +52,5 @@
 
 ## 📊 GitHub Statistics
 <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mghiasvand1&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" height=150px/><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mghiasvand1&hide=html&&exclude_repo=huggingface-tutorial,mghiasvand1.github.io&hide_title=true&hide_border=true&layout=compact&langs_count=3&bg_color=00000000" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mghiasvand1&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" height=150px/><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mghiasvand1&hide=html&&exclude_repo=huggingface-tutorial,mghiasvand1.github.io&hide_title=true&hide_border=true&layout=compact&langs_count=3&bg_color=00000000" />
 </p>
