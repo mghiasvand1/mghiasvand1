@@ -5,7 +5,7 @@
 
 ### Selected Publications
 
-✓ Top three first-author papers I completed as an undergraduate, without access to suitable GPUs.
+Top three first-author papers I completed as an undergraduate, without access to suitable GPUs.
 
 > [**E2TP: Element to Tuple Prompting Improves Aspect Sentiment Tuple Prediction**](https://www.sciencedirect.com/science/article/pii/S0893608025007270)<br>
 > _**Neural Networks (Q1, IF=6.3)**_ **|** _Completed in my 3rd undergraduate semester_<br>
