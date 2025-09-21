@@ -15,5 +15,5 @@ Top three first-author papers I completed as an undergraduate, without access to
 
 ### Honors
 - Received the Distinguished Student AUT Entrance Award (Sep. 2022)
-- Achieved an IELTS score of 8.0/9.0 (Oct. 2024)
 - As an undergraduate, I gained freelance experience as a web developer and AI engineer, and served as an academic reviewer.
+- Achieved an IELTS score of 8.0/9.0 (Oct. 2024)
