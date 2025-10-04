@@ -1,5 +1,5 @@
 ## Hello, this is Mohammad.
-- With a research focus on vision-language models.
+- With a research focus on large language models.
 - B.Sc. in Computer Science — early graduation in 6 semesters — with a 3.93/4.0 GPA from Amirkabir University of Technology.
 - I'm only available via email, as I don't use any social media.
 
