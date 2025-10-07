@@ -3,9 +3,24 @@
 - B.Sc. in Computer Science — early graduation in 6 semesters — with a 3.93/4.0 GPA from Amirkabir University of Technology.
 - I'm only available via email, as I don't use any social media.
 
-### Publications
+### Selected Publications
 
-I completed five first-authored research papers — listed at [https://scholar.google.com/citations?hl=en&user=SRL5nsUAAAAJ](https://scholar.google.com/citations?hl=en&user=SRL5nsUAAAAJ) — as an undergraduate, without access to suitable GPUs or research funding at my university.
+The five first-author papers I completed as an undergraduate, without access to suitable GPUs or research funding at my university.
+
+> [E2TP: Element to Tuple Prompting Improves Aspect Sentiment Tuple Prediction](https://www.sciencedirect.com/science/article/pii/S0893608025007270)<br>
+> Neural Networks (Q1, IF=6.3) | Completed in my 3rd undergraduate semester<br>
+
+> [A Survey on Bridging VLMs and Synthetic Data](https://openreview.net/pdf?id=ThjDCZOljE)<br>
+> Under Review<br>
+
+> [Checklist Engineering Empowers Multilingual LLM Judges](https://arxiv.org/pdf/2507.06774)<br>
+> GlobalNLP Workshop at RANLP 2025<br>
+
+> [Zero-Shot Learning and Key Points for Automated Fact-Checking](https://aclanthology.org/2024.fever-1.9.pdf)<br>
+> FEVER Workshop at EMNLP 2024<br>
+
+> [Gap-Filling Prompting Enhances Code-Assisted Mathematical Reasoning]<br>
+> Preprint<br>
 
 ### Honors
 - Received the Distinguished Student AUT Entrance Award (Sep. 2022)
