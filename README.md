@@ -13,13 +13,13 @@ The five first-author papers I completed as an undergraduate, without access to 
 > [A Survey on Bridging VLMs and Synthetic Data](https://openreview.net/pdf?id=ThjDCZOljE)<br>
 > Under Review<br>
 
-> [Checklist Engineering Empowers Multilingual LLM Judges](https://arxiv.org/pdf/2507.06774)<br>
+> Checklist Engineering Empowers Multilingual LLM Judges<br>
 > GlobalNLP Workshop at RANLP 2025<br>
 
-> [Zero-Shot Learning and Key Points for Automated Fact-Checking](https://aclanthology.org/2024.fever-1.9.pdf)<br>
+> Zero-Shot Learning and Key Points for Automated Fact-Checking<br>
 > FEVER Workshop at EMNLP 2024<br>
 
-> [Gap-Filling Prompting Enhances Code-Assisted Mathematical Reasoning]<br>
+> Gap-Filling Prompting Enhances Code-Assisted Mathematical Reasoning<br>
 > Preprint<br>
 
 ### Honors
